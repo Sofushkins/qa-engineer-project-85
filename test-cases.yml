@@ -1,0 +1,49 @@
+---
+- summary: |
+    Успешная регистрация на сайте
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = Labubu
+    Email = miymiymiy@list.ru
+    Password = Qwerty123?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Labubu"
+    - Заполнить поле "Email" Значение "miymiymiy@list.ru"
+    - Заполнить поле "Password". Значение "Qwerty123?"
+    - Заполнить поле "Password Confirmation". Значение "Qwerty123?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Регистрация проходит успешно
+    Открывается главная страница сайта
+    Справа отображается выбранный никнейм пользователя
+    Код операции: 204
+
+- summary: |
+    Неуспешная регистрация на сайте 
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = Labubu
+    Email = miymiymiy@list.ru
+    Password = Qwerty123?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Labubu"
+    - Заполнить поле "Email" Значение "miymiymiy@list.ru"
+    - Заполнить поле "Password". Значение "Qwerty123?"
+    - Заполнить поле "Password Confirmation". Значение "Qwerty123?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Регистрация проходит успешно
+    Открывается главная страница сайта
+    Справа отображается выбранный никнейм пользователя
+    Код операции: 204
+    
