@@ -320,7 +320,7 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    В системе уже существует пользователь с email "miymiymiy@list.ru"
   test-data: |
     Nickname = CutiePieLove9
     Email = miymiymiy@list.ru
@@ -343,7 +343,7 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    В системе уже существует пользователь с Nickname "Labubu"
   test-data: |
     Nickname = Labubu
     Email = miymiymiy1@list.ru
