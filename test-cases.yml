@@ -19,9 +19,11 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
+
 
 - summary: |
     Успешная регистрация на сайте при вводе нетипичного email
@@ -43,9 +45,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
     
 - summary: |
     Успешная регистрация на сайте при вводе пароля на кириллице 
@@ -67,9 +70,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Успешная регистрация на сайте при вводе никнейма на 3 символа
@@ -91,9 +95,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Успешная регистрация на сайте при вводе никнейма на 12 символов
@@ -115,9 +120,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 
 - summary: |
@@ -140,9 +146,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Успешная регистрация на сайте при вводе пароля из 16 символов
@@ -164,9 +171,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Успешная регистрация на сайте при вводе пароля из букв и спецсимвола
@@ -184,13 +192,14 @@
     - Заполнить поле "Nickname". Значение "CutiePieLove4"
     - Заполнить поле "Email" Значение "u8@beercard.com"
     - Заполнить поле "Password". Значение "Парольизбукв!"
-    - Заполнить поле "Password Confirmation". Значение "Парольизбукв"
+    - Заполнить поле "Password Confirmation". Значение "Парольизбукв!"
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Неуспешная регистрация на сайте при вводе пароля только из букв
@@ -278,9 +287,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Неуспешная регистрация на сайте при вводе отличающихся паролей
@@ -419,9 +429,10 @@
     - Нажать кнопку Submit
   expected-result: |
     Регистрация проходит успешно
-    Открывается главная страница сайта
-    Справа отображается выбранный никнейм пользователя
-    Код операции: 204
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
 
 - summary: |
     Неспешная регистрация на сайте при вводе почты из 500 символов
@@ -445,3 +456,320 @@
   expected-result: |
     Email не проходит валидацию
     Поле "Email" подсвечивается красным, показывается сообщение "INVALID_EMAIL"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе пароля из 500 символов
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = Cats111
+    Email = Labubububu@list.ru
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cats111"
+    - Заполнить поле "Email" Значение "Labubububu@list.ru"
+    - Заполнить поле "Password". Значение "Labubububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububl??"
+    - Заполнить поле "Password Confirmation". Значение "Labubububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububl??"
+    - Нажать кнопку Submit
+  expected-result: |
+    Password не проходит валидацию
+    Поле "Password" подсвечивается красным, показывается сообщение "Should be from 6 to 16 characters"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе никнейма из 6 пробелов
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "      "
+    Email = miymiymiy11@list.ru
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "      "
+    - Заполнить поле "Email" Значение "miymiymiy11@list.ru"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Nickname не проходит валидацию
+    Поле "Nickname" подсвечивается красным, показывается сообщение "Can't start or end with empty symbols"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе никнейма из букв и пробелов
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "a      m"
+    Email = miymiymiy11@list.ru
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "a      m"
+    - Заполнить поле "Email" Значение "miymiymiy11@list.ru"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Nickname не проходит валидацию
+    Поле "Nickname" подсвечивается красным, показывается сообщение "Must consist of Latin letters, numbers and underscores. Only begin with latin letter"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе никнейма на кириллице
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "ЯКошка"
+    Email = miymiymiy11@list.ru
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "ЯКошка"
+    - Заполнить поле "Email" Значение "miymiymiy11@list.ru"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Nickname не проходит валидацию
+    Поле "Nickname" подсвечивается красным, показывается сообщение "Must consist of Latin letters, numbers and underscores. Only begin with latin letter"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе почты из спецсимволов
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat12"
+    Email = @.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat12"
+    - Заполнить поле "Email" Значение "@.com"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Email не проходит валидацию
+    Поле "Email" подсвечивается красным, показывается сообщение "Invalid email"
+
+- summary: |
+    Успешная регистрация на сайте при вводе почты с точкой
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat12"
+    Email = im.cat@gmail.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat12"
+    - Заполнить поле "Email" Значение "im.cat@gmail.com"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Регистрация проходит успешно
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе почты без @
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat123"
+    Email = im.cat.gmail.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat123"
+    - Заполнить поле "Email" Значение "im.cat.gmail.com"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Email не проходит валидацию
+    Поле "Email" подсвечивается красным, показывается сообщение "Invalid email"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе почты с несколькими @
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat123"
+    Email = im.cat@@gmail.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat123"
+    - Заполнить поле "Email" Значение "im.cat@@gmail.com"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Email не проходит валидацию
+    Поле "Email" подсвечивается красным, показывается сообщение "Invalid email"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе почты на кириллице
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat123"
+    Email = якошка@gmail.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat123"
+    - Заполнить поле "Email" Значение "якошка@gmail.com"
+    - Заполнить поле "Password". Значение "1234567?"
+    - Заполнить поле "Password Confirmation". Значение "1234567?"
+    - Нажать кнопку Submit
+  expected-result: |
+    Email не проходит валидацию
+    Поле "Email" подсвечивается красным, показывается сообщение "Should begin and end with a Latin letter or number"
+
+- summary: |
+    Неуспешная регистрация на сайте при вводе пароля из пробелов
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat123"
+    Email = imcat@gmail.com
+    Password = "       "
+    Password Confirmation = "       "
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat123"
+    - Заполнить поле "Email" Значение "imcat@gmail.com"
+    - Заполнить поле "Password". Значение "       "
+    - Заполнить поле "Password Confirmation". Значение "       "
+    - Нажать кнопку Submit
+  expected-result: |
+    Password не проходит валидацию
+    Поле "Password" подсвечивается красным, показывается сообщение "Can't contain empty symbols"
+
+- summary: |
+    Успешная регистрация на сайте при вводе почты содержащей +
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat1234"
+    Email = im+cat@gmail.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat1234"
+    - Заполнить поле "Email" Значение "im+cat@gmail.com"
+    - Заполнить поле "Password". Значение 1234567?
+    - Заполнить поле "Password Confirmation". Значение 1234567?
+    - Нажать кнопку Submit
+  expected-result: |
+    Регистрация проходит успешно
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
+
+- summary: |
+    Успешная регистрация на сайте при нажатии Enter после заполнения полей
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Nickname = "Cat12345"
+    Email = imhappy@gmail.com
+    Password = 1234567?
+    Password Confirmation = 1234567?
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Заполнить поле "Nickname". Значение "Cat12345"
+    - Заполнить поле "Email" Значение "imhappy@gmail.com"
+    - Заполнить поле "Password". Значение 1234567?
+    - Заполнить поле "Password Confirmation". Значение 1234567?
+    - Нажать Enter
+  expected-result: |
+    Регистрация проходит успешно
+    Пользователь успешно зарегистрирован 
+    API возвращает код 204
+    Происходит автоматический редирект на главную страницу
+    В правом верхнем углу страницы отображается никнейм пользователя
+
+- summary: |
+    Успешный переход по кнопке "Sign up with Github"
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Нет
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Нажать кнопку "Sign up with Github"
+  expected-result: |
+    При нажатии кнопка выделяется цветом
+    Происходит автоматический редирект на страничку входа в гитхаб
+
+- summary: |
+    Успешный переход по кнопке "Sign up with Discord"
+  requirement: |
+    Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
+  prerequisites: |
+    Нет
+  test-data: |
+    Нет
+  steps:
+    - Открыть сайт https://codebattle.hexlet.io/
+    - Нажать кнопку Sign up
+    - Нажать кнопку "Sign up with Discord"
+  expected-result: |
+    При нажатии кнопка выделяется цветом
+    Происходит автоматический редирект на страничку входа в дискорд
