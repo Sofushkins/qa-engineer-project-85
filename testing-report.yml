@@ -430,3 +430,63 @@
 - summary: |
      Корректное отображение соревнования при нажатии на него на странице турниров
   status: pass
+
+- summary: |
+     Корректное закрытие модального окна соревнования странице турниров через кнопку Close
+  status: pass
+
+- summary: |
+     Корректное закрытие модального окна соревнования странице турниров через кнопку X
+  status: pass
+
+- summary: |
+     Корректное нажатие кнопки Open Tournament модального окна соревнования странице турниров
+  status: pass
+
+- summary: |
+     Корректное отображение страницы определенного соревнования
+  status: pass
+
+- summary: |
+     Корректное отображение страницы задач Tasks
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Create new task страницы задач Tasks
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Task Packs страницы задач Tasks
+  status: pass
+
+- summary: |
+     Корректное отображение страницы со списком Task Packs
+  status: pass
+
+- summary: |
+     Корректное отображение сраницы Create Task Pack
+  status: pass
+
+- summary: |
+     Успешное создание Task Pack
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Task Packs страницы задач Tasks
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Task Packs страницы задач Tasks
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Task Packs страницы задач Tasks
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Task Packs страницы задач Tasks
+  status: pass
+
+- summary: |
+     Успешное нажатие на кнопку Task Packs страницы задач Tasks
+  status: pass
