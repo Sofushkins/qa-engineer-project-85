@@ -548,13 +548,153 @@
   status: pass
 
 - summary: |
-     Успешная проверка на защиту от XSS инъекций в чате
+     Успешное нажатие кнопки "Create a battle" при завершенной процедуре авторизации
   status: pass
 
 - summary: |
-     Успешная проверка на защиту от XSS инъекций в чате
+     Успешное нажатие кнопки "Join a battle" при завершенной процедуре авторизации
   status: pass
 
 - summary: |
-     Успешная проверка на защиту от XSS инъекций в чате
+     Корректное отображение модального окна "Create a battle"
+  status: pass
+
+- summary: |
+     Успешное закрытие модального окна "Create a battle" через кнопку Х
+  status: pass
+
+- summary: |
+     Успешное закрытие модального окна "Create a battle" через нажатие за пределами окна
+  status: pass
+
+- summary: |
+     Корректное отображение модального окна "Join a battle"
+  status: pass
+
+- summary: |
+     Успешное закрытие модального окна "Join a battle" через кнопку Х
+  status: pass
+
+- summary: |
+     Успешное закрытие модального окна "Join a battle" через нажатие за пределами окна
+  status: pass
+
+- summary: |
+     Успешное переключние сложности (level) в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешное переключние типа игры (Game type) на "With a friend" в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешное отображение игроков в выпадающем списке игроков при создании игры With a friend в модальном окне "Create a battle"
+  status: fail нихуя не видно
+
+- summary: |
+     Успешное переключние типа игры (Game type) на "With a bot" в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Корректное уменьшение времени в блоке "Time control" в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Корректное увеличение времени в блоке "Time control" в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Корректное открытие выпадающего списка задач "Choose task by name or tags" в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешная смена задачи из списка "Choose task by name or tags" в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешная активация тега (Tags) в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешная деактивация тега (Tags) в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешная активация нескольких тегов (Tags) в модальном окне "Create a battle"
+  status: pass
+
+- summary: |
+     Успешное присоединение к игре через кнопку "Join a battle"
+  status: pass
+
+- summary: |
+     Успешный выход из текущей игры на главную страницу
+  status: pass
+
+- summary: |
+     Успешный возврат к текущей игре после выхода на главную страницу сайта
+  status: pass
+
+- summary: |
+     Успешный просмотр игры между другими игроками
+  status: pass
+
+- summary: |
+     Успешное создание игры с: сложность 4 звезды, With other user, 3 min, любая задача (не рандом)
+  status: pass
+
+- summary: |
+     Успешный переход по кнопке "Continue a battle" после создания игры пользователем до присоединения второго игрока
+  status: pass
+
+- summary: |
+     Успешный переход к созданной пользователем игры при присоединении второго игрока
+  status: pass
+
+- summary: |
+     Успешное создание игры с: сложность 2 звезды, With a friend, 30 min, тег strings, random task
+  status: pass
+
+- summary: |
+     Успешное создание игры с: сложность 1 звезда, With a bot, 60 min, теги math hash-maps, random task
+  status: pass
+
+- summary: |
+     Успешное отображение приглашения в игру от другого пользователя
+  status: pass
+
+- summary: |
+     Успешное отображение информации о приглашении в игру от другого пользователя в модальном окне
+  status: pass
+
+- summary: |
+     Успешное нажатие кнопки "Accept" через информацию о приглашении в игру от другого пользователя
+  status: pass
+
+- summary: |
+     Успешное нажатие кнопки "Decline" через информацию о приглашении в игру от другого пользователя
+  status: pass
+
+- summary: |
+     Корректное отображение игрового экрана
+  status: pass
+
+- summary: |
+     Успешное появление о подтверждении нажатия кнопки "Give up"
+  status: pass
+
+- summary: |
+     Корректное отображение результата игры при нажатии кнопки "Give up"
+  status: pass
+
+- summary: |
+     Успешное закрытие модального окна результатов игры через кнопку "Х"
+  status: pass
+
+- summary: |
+     Успешное закрытие модального окна результатов игры через кнопку "GG"/"I'll be back"
+  status: pass
+
+- summary: |
+     Корректное завершение игры при истечении таймера
   status: pass
