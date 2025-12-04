@@ -741,8 +741,7 @@
 
 - summary: |
      Корректное отображаение сайта в браузере Google Chrome
-  status: pass
-
+  status: pass 
 - summary: |
      Корректное отображаение главной страницы сайта меньеш чем за 10 секунд
   status: pass
