@@ -4,13 +4,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Labubu
     Email не был зарегистрирован ранее
     Password = Qwerty123?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Labubu"
     - Заполнить поле "Email" Значение "miymiymiy@list.ru"
@@ -29,13 +28,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Labubu1
     Email = u@beercard.com
     Password = Qwerty123?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Labubu1"
     - Заполнить поле "Email" Значение "u@beercard.com"
@@ -54,13 +52,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Labubu2
     Email = u2@beercard.com
     Password = Котопес12!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Labubu1"
     - Заполнить поле "Email" Значение "u2@beercard.com"
@@ -79,13 +76,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Pie
     Email = u3@beercard.com
     Password = Котопес12!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Pie"
     - Заполнить поле "Email" Значение "u3@beercard.com"
@@ -104,13 +100,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove
     Email = u4@beercard.com
     Password = Котопес12!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove"
     - Заполнить поле "Email" Значение "u4@beercard.com"
@@ -129,13 +124,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove1
     Email = u5@beercard.com
     Password = Пар12?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove1"
     - Заполнить поле "Email" Значение "u5@beercard.com"
@@ -154,13 +148,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove2
     Email = u6@beercard.com
     Password = Парольйцукен12?1
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove2"
     - Заполнить поле "Email" Значение "u6@beercard.com"
@@ -179,13 +172,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove4
     Email = u8@beercard.com
     Password = Парольизбукв!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove4"
     - Заполнить поле "Email" Значение "u8@beercard.com"
@@ -204,13 +196,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove3
     Email = u7@beercard.com
     Password = Парольизбукв
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove3"
     - Заполнить поле "Email" Значение "u7@beercard.com"
@@ -226,13 +217,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove5
     Email = u8@beercard.com
     Password = 12345678912
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove5"
     - Заполнить поле "Email" Значение "u8@beercard.com"
@@ -248,13 +238,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove5
     Email = u8@beercard.com
     Password = !@#$%&*?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove5"
     - Заполнить поле "Email" Значение "u8@beercard.com"
@@ -270,13 +259,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove6
     Email = u9@beercard.com
     Password = 1234567!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove6"
     - Заполнить поле "Email" Значение "u9@beercard.com"
@@ -295,14 +283,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = CutiePieLove7
     Email = u10@beercard.com
     Password = 1234567?
     Password Confirmation = 234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove7"
     - Заполнить поле "Email" Значение "u10@beercard.com"
@@ -318,6 +305,7 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     В системе уже существует пользователь с email "miymiymiy@list.ru"
   test-data: |
     Nickname = CutiePieLove9
@@ -325,7 +313,6 @@
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "CutiePieLove9"
     - Заполнить поле "Email" Значение "miymiymiy@list.ru"
@@ -341,6 +328,7 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     В системе уже существует пользователь с Nickname "Labubu"
   test-data: |
     Nickname = Labubu
@@ -348,7 +336,6 @@
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Labubu"
     - Заполнить поле "Email" Значение "miymiymiy1@list.ru"
@@ -365,14 +352,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Labubububububububububububububuububububububububbubu
     Email = miymiymiy1@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Labubububububububububububububuububububububububbubu"
     - Заполнить поле "Email" Значение "miymiymiy1@list.ru"
@@ -388,14 +374,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = La
     Email = miymiymiy1@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "La"
     - Заполнить поле "Email" Значение "miymiymiy1@list.ru"
@@ -411,14 +396,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Cats11
     Email = Labubububububububububububububuububububububububbubu@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cats11"
     - Заполнить поле "Email" Значение "Labubububububububububububububuububububububububbubu@list.ru"
@@ -437,14 +421,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Cats111
     Email = Labubububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbububububububububublal@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cats111"
     - Заполнить поле "Email" Значение "Labubububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbubububububububububububububububuububububububububbububububububububublal@list.ru"
@@ -460,14 +443,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = Cats111
     Email = Labubububu@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cats111"
     - Заполнить поле "Email" Значение "Labubububu@list.ru"
@@ -483,14 +465,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "      "
     Email = miymiymiy11@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "      "
     - Заполнить поле "Email" Значение "miymiymiy11@list.ru"
@@ -506,14 +487,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "a      m"
     Email = miymiymiy11@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "a      m"
     - Заполнить поле "Email" Значение "miymiymiy11@list.ru"
@@ -529,14 +509,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "ЯКошка"
     Email = miymiymiy11@list.ru
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "ЯКошка"
     - Заполнить поле "Email" Значение "miymiymiy11@list.ru"
@@ -552,14 +531,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat12"
     Email = @.com
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat12"
     - Заполнить поле "Email" Значение "@.com"
@@ -575,14 +553,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat12"
     Email = im.cat@gmail.com
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat12"
     - Заполнить поле "Email" Значение "im.cat@gmail.com"
@@ -601,14 +578,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat123"
     Email = im.cat.gmail.com
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat123"
     - Заполнить поле "Email" Значение "im.cat.gmail.com"
@@ -624,14 +600,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat123"
     Email = im.cat@@gmail.com
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat123"
     - Заполнить поле "Email" Значение "im.cat@@gmail.com"
@@ -647,14 +622,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat123"
     Email = якошка@gmail.com
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat123"
     - Заполнить поле "Email" Значение "якошка@gmail.com"
@@ -670,14 +644,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat123"
     Email = imcat@gmail.com
     Password = "       "
     Password Confirmation = "       "
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat123"
     - Заполнить поле "Email" Значение "imcat@gmail.com"
@@ -693,14 +666,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Nickname = "Cat12345"
     Email = imhappy@gmail.com
     Password = 1234567?
     Password Confirmation = 1234567?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Заполнить поле "Nickname". Значение "Cat12345"
     - Заполнить поле "Email" Значение "imhappy@gmail.com"
@@ -719,11 +691,10 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Нажать кнопку "Sign up with Github"
   expected-result: |
@@ -735,11 +706,10 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Нажать кнопку "Sign up with Discord"
   expected-result: |
@@ -751,11 +721,11 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь с ником Sofushkins существует
   test-data: |
     Username or email address = Sofushkins
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Нажать кнопку "Sign up with Github"
     - Заполнить поле "Username or email address". Значение "Sofushkins"
@@ -773,12 +743,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователя с ником Labubu не существует
   test-data: |
     Username or email address = Labubu
     Password = qwerty1234
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Нажать кнопку "Sign up with Github"
     - Заполнить поле "Username or email address". Значение "Labubu"
@@ -793,12 +763,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователя с почтой Labubu1230@mail.ru не существует
   test-data: |
     Адрес электронной почты или номер телефона = Labubu1230@mail.ru
     Пароль = qwerty1234
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Нажать кнопку "Sign up with Discord"
     - Заполнить поле "Адрес электронной почты или номер телефона". Значение "Labubu1230@mail.ru"
@@ -815,11 +785,11 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователя с почтой glimmi331@gmail.com не существует
   test-data: |
     Адрес электронной почты или номер телефона = glimmi331@gmail.com
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign up
     - Нажать кнопку "Sign up with Discord"
     - Заполнить поле "Адрес электронной почты или номер телефона". Значение "glimmi331@gmail.com"
@@ -838,12 +808,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
   test-data: |
     Email = miymiymiy@list.ru
     Password = Qwerty123?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Заполнить поле "Email". Значение "miymiymiy@list.ru"
     - Заполнить поле "Пароль". Значение "Qwerty123?"
@@ -859,12 +829,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
   test-data: |
     Email = miymiymiy090@list.ru
     Password = Qwerty123?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Заполнить поле "Email". Значение "miymiymiy090@list.ru"
     - Заполнить поле "Пароль". Значение "Qwerty123?"
@@ -879,12 +849,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
   test-data: |
     Email = miymiymiy@list.ru
     Password = Qwerty123?123
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Заполнить поле "Email". Значение "miymiymiy@list.ru"
     - Заполнить поле "Пароль". Значение "Qwerty123?123"
@@ -899,12 +869,12 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
   test-data: |
     Email = MIymiymiy@list.ru
     Password = Qwerty123?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Заполнить поле "Email". Значение "MIymiymiy@list.ru"
     - Заполнить поле "Пароль". Значение "Qwerty123?"
@@ -920,12 +890,12 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
   test-data: |
     Email = miymiymiy@list.ru
     Password = Qwerty123?
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Нажать гиперссылку "Forgot your password?"
     - Заполнить поле "Email". Значение "miymiymiy@list.ru"
@@ -940,6 +910,7 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пользователь перешел по уникальной ссылке для сброса пароля, полученной на email
   test-data: |
@@ -958,6 +929,7 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пользователь перешел по уникальной ссылке для сброса пароля, полученной на email
   test-data: |
@@ -976,6 +948,7 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пользователь перешел по уникальной ссылке для сброса пароля, полученной на email
     Пароль успешно изменен по инструкции
@@ -992,6 +965,7 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пользователь перешел по уникальной ссылке для сброса пароля, полученной на email
   test-data: |
@@ -1010,6 +984,7 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пользователь перешел по уникальной ссылке для сброса пароля, полученной на email
   test-data: |
@@ -1027,13 +1002,13 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пройдена процедура восстановления пароля 
   test-data: |
     Email = miymiymiy@list.ru
     Password = NewPassword123!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Заполнить поле "Email". Значение "miymiymiy@list.ru"
     - Заполнить поле "Пароль". Значение "NewPassword123!"
@@ -1049,6 +1024,7 @@
   requirement: |
     Пользователь должен иметь возможность восстановить пароль при утере
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь miymiymiy@list.ru существует
     Пройдена процедура восстановления пароля 
   test-data: |
@@ -1056,7 +1032,6 @@
     Старый пароль = Qwerty123?
     Новый пароль = NewPassword123!
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку Sign in
     - Заполнить поле "Email". Значение "miymiymiy@list.ru"
     - Заполнить поле "Пароль". Значение "Qwerty123?"
@@ -1072,13 +1047,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
   expected-result: |
     Открывается выпадающий список
@@ -1088,13 +1063,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
   expected-result: |
     Открывается выпадающий список, содержащий: My Profile, Settings, Hall of Fame, Tournaments, Tasks, Clans, SoureCode, Hexlet, Join Discord, Tg#codebattle, Sign Out
@@ -1105,13 +1080,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент My Profile
   expected-result: |
@@ -1122,13 +1097,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Settings
   expected-result: |
@@ -1139,13 +1114,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Hall of Fame
   expected-result: |
@@ -1156,13 +1131,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Tournaments
   expected-result: |
@@ -1173,13 +1148,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент tasks
   expected-result: |
@@ -1190,13 +1165,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Clans
   expected-result: |
@@ -1207,13 +1182,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент SoureCode
   expected-result: |
@@ -1224,13 +1199,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Hexlet
   expected-result: |
@@ -1241,13 +1216,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Join Discord
   expected-result: |
@@ -1258,13 +1233,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Tg#codebattle
   expected-result: |
@@ -1275,13 +1250,13 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент Sign Out
   expected-result: |
@@ -1293,13 +1268,13 @@
   requirement: |
     Пользователь может иметь возможность регистрироваться на сайте и входить в свой аккаунт
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My Profile"
   expected-result: |
@@ -1315,6 +1290,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Ни одной сыгранной игры
@@ -1322,7 +1298,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My Profile"
     - Нажать вкладку "completed games"
@@ -1335,6 +1310,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Были проведены игры
@@ -1342,7 +1318,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My Profile"
     - Нажать вкладку "completed games"
@@ -1358,6 +1333,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь только что завершил игру на Python с результатом "Победа"
@@ -1365,7 +1341,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My Profile"
   expected-result: |
@@ -1381,6 +1356,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Были проведена игра с победой на js
@@ -1388,7 +1364,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My Profile"
   expected-result: |
@@ -1404,6 +1379,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Были проведены игры
@@ -1411,7 +1387,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My Profile"
     - Нажать вкладку "completed games"
@@ -1427,6 +1402,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Были проведены игры
@@ -1434,7 +1410,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
   expected-result: |
@@ -1447,6 +1422,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
@@ -1454,7 +1430,6 @@
     Nickname старый = Labubu
     Nickname новый = Labubu9
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Заполнить поле "Your name". Значение "Labubu9"
@@ -1469,6 +1444,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
@@ -1476,7 +1452,6 @@
     Nickname старый = Labubu
     Nickname новый = Labubu9
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Заполнить поле "Your name". Значение "Labubu9"
@@ -1491,6 +1466,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
@@ -1498,7 +1474,6 @@
     Nickname старый = Labubu
     Nickname новый = Лабуба
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Заполнить поле "Your name". Значение "Лабуба"
@@ -1512,13 +1487,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Открыть выпадающий список "Your weapon"
@@ -1534,6 +1509,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь только что сменил язык программирования
@@ -1541,7 +1517,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My profile"
   expected-result: |
@@ -1549,10 +1524,29 @@
     В графе "Lang" отображается иконка выбранного ранее языка
 
 - summary: |
+    Корректное отображение языка программирования в игре после его смены
+  requirement: |
+    Пользователь должен иметь возможность менять свои данные профиля
+  prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
+    Пользователь Labubu существует
+    Пройдена процедура авторизации
+    Пользователь только что сменил язык программирования
+  test-data: |
+    Email = miymiymiy@list.ru
+    Nickname = Labubu
+  steps:
+    - Начать любую игру
+  expected-result: |
+    Открывается страница игры
+    При создании новой игры по умолчанию стоит выбранный язык программирования (отображается иконка выбранного языка, наименование, пример решения на выбранной языке) 
+    
+- summary: |
     Успешное добавление нового клана в графу "Your clan"
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Клан "Тестовый" не существует
@@ -1560,7 +1554,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Заполнить поле "Your clan". Значение "Тестовый"
@@ -1574,13 +1567,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Clans"
   expected-result: |
@@ -1594,6 +1587,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь создал клан "Тестовый"
@@ -1601,7 +1595,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Clans"
   expected-result: |
@@ -1613,13 +1606,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Clans"
     - Нажать кнопку "Show" в строчке любого клана
@@ -1635,13 +1628,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Заполнить поле "Your clan" любым названием существующего клана
@@ -1657,13 +1650,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Заполнить поле "Your clan". Значение "   "
@@ -1678,6 +1671,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Значение уровня звука не равно нулю
@@ -1685,7 +1679,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - В радиокнопке  "Select sound type" выбрать любой доступный вариант кроме Silent
@@ -1696,10 +1689,34 @@
     API возвращает код 200
 
 - summary: |
+    Успешное воспроизведение выбранного звукового сигнала в игре после его смены
+  requirement: |
+    Пользователь должен иметь возможность менять свои данные профиля
+  prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
+    Пользователь Labubu существует
+    Пройдена процедура авторизации
+    Значение уровня звука не равно нулю
+  test-data: |
+    Email = miymiymiy@list.ru
+    Nickname = Labubu
+  steps:
+    - Нажать иконку аватарки/никнейм в правом верхнем углу
+    - Нажать на элемент "Settings"
+    - В радиокнопке  "Select sound type" выбрать любой доступный вариант кроме Silent
+    - Нажать кнопку "Save"
+    - Нажать на  "Hexlet codebattle" в шапке сайта
+    - Начать любую игру
+  expected-result: |
+    Отображается страница начатой игры
+    Воспроизводится выбранные звуковые сигналы при проверке решения, выигрыше или проигрыше
+
+- summary: |
     Успешная смена уровня громкости звукового стиля на максимум
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Значение sound type не равно Silent
@@ -1707,7 +1724,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Повысить значение ползунка "Select sound level" на максимум
@@ -1721,6 +1737,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Значение sound type не равно Silent
@@ -1728,7 +1745,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Повысить значение ползунка "Select sound level" на минимум
@@ -1742,13 +1758,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - В радиокнопках "Select sound type" выбрать Silent
@@ -1763,6 +1779,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Выбран английский язык
@@ -1770,7 +1787,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - В выпадающем списке "Locale" выбрать значение "Ru"
@@ -1785,6 +1801,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь поменял язык на русский
@@ -1803,6 +1820,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь поменял язык на русский
@@ -1810,7 +1828,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
   expected-result: |
     Открывается выпадающий список с навигацией по сайту
@@ -1821,6 +1838,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь поменял язык на русский
@@ -1828,7 +1846,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Мой профиль" 
   expected-result: |
@@ -1838,6 +1855,7 @@
 - summary: |
     Успешное отображание страницы зала славы после смены языка
   requirement: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
     Пользователь Labubu существует
@@ -1847,7 +1865,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Зал славы" 
   expected-result: |
@@ -1859,6 +1876,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь поменял язык на русский
@@ -1866,7 +1884,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Турниры" 
   expected-result: |
@@ -1878,6 +1895,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь поменял язык на русский
@@ -1885,7 +1903,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Задачи" 
   expected-result: |
@@ -1897,6 +1914,7 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Пользователь поменял язык на русский
@@ -1904,7 +1922,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Кланы" 
   expected-result: |
@@ -1916,13 +1933,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Нажать на гиперссылку "Link Github"
@@ -1934,13 +1951,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Нажать на гиперссылку "Link Github"
@@ -1953,13 +1970,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Нажать на гиперссылку "Link Discord"
@@ -1971,13 +1988,13 @@
   requirement: |
     Пользователь должен иметь возможность менять свои данные профиля
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Settings"
     - Нажать на гиперссылку "Link Discord"
@@ -1990,6 +2007,7 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
     Были проведены игры
@@ -1997,7 +2015,6 @@
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Hall of Fame"
   expected-result: |
@@ -2013,13 +2030,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
   expected-result: |
@@ -2037,13 +2054,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Нажать на вкладку "My Tournaments"
@@ -2061,13 +2078,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Month"
@@ -2082,13 +2099,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Day"
@@ -2104,13 +2121,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Agenda"
@@ -2126,13 +2143,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Month"
@@ -2147,13 +2164,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Month"
@@ -2168,13 +2185,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Day"
@@ -2190,13 +2207,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Day"
@@ -2212,13 +2229,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Agenda"
@@ -2234,13 +2251,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Справа нажать кнопку "Day"
@@ -2256,13 +2273,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Нажать на любое соревноание в календаре
@@ -2281,13 +2298,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Нажать на любое соревноание в календаре
@@ -2302,13 +2319,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Нажать на любое соревноание в календаре
@@ -2323,13 +2340,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Нажать на любое соревноание в календаре
@@ -2344,13 +2361,13 @@
   requirement: |
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tournament"
     - Нажать на любое соревноание в календаре
@@ -2368,13 +2385,13 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
   expected-result: |
@@ -2392,13 +2409,13 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пользователь Labubu существует
     Пройдена процедура авторизации
   test-data: |
     Email = miymiymiy@list.ru
     Nickname = Labubu
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
   expected-result: |
@@ -2416,11 +2433,10 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
     - Нажать на кнопку Create new task
@@ -2434,11 +2450,10 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
     - Нажать на кнопку Task Packs
@@ -2452,11 +2467,10 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
     - Нажать на кнопку Task Packs
@@ -2470,11 +2484,10 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
     - Нажать на кнопку Task Packs
@@ -2504,13 +2517,13 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/task_packs/new
     Пройдена процедура авторизации
   test-data: |
     Name = Тестовый
     Visibility = hidden
     Task_ids = 1,37,42
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/task_packs/new
     - Заполнить поле "Name". Значение "Тестовый"
     - Открыть выпадающий список "Visibility". Значение "hidden"
     - Заполнить поле "Task_ids". Значение "1,37,42"
@@ -2525,12 +2538,12 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь успешно создал пак задач
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
     - Нажать на кнопку "Task Packs"
@@ -2543,12 +2556,12 @@
   requirement: |
     Пользователь должен иметь возможность добавлять новые задачи и группировать уже созданные
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь успешно создал пак задач
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "Tasks"
     - Нажать на кнопку "Show" на любой существующей задаче
@@ -2577,11 +2590,11 @@
   requirement: |
     Пользователи должны иметь возможность вести переписку в чате после регистрации
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Заполнить поле текста в чате, значение "Тестовое сообщение. Всем хорошего дня"
     - Нажать кнопку "Send"
   expected-result: |
@@ -2592,12 +2605,12 @@
   requirement: |
     Пользователи должны иметь возможность вести переписку в чате после регистрации
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь отправил сообщение в чат
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать на никнейм пользователя в блоке чата
   expected-result: |
     При наведении курсора, никнейм выделяется цветом
@@ -2610,12 +2623,12 @@
   requirement: |
     Пользователи должны иметь возможность вести переписку в чате после регистрации
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Количество игроков онлайн больше 1
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать на никнейм любого пользователя в блоке чата
   expected-result: |
     При наведении курсора, никнейм выделяется цветом
@@ -2627,12 +2640,12 @@
   requirement: |
     Пользователи должны иметь возможность вести переписку в чате после регистрации
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Количество игроков онлайн больше 1
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать на никнейм любого пользователя в блоке чата
     - Нажать на строку "Info"
   expected-result: |
@@ -2644,12 +2657,12 @@
     Пользователи должны иметь возможность вести переписку в чате после регистрации
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Количество игроков онлайн больше 1
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать на никнейм любого пользователя в блоке чата
     - Нажать на строку "Follow"
   expected-result: |
@@ -2663,12 +2676,12 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Количество игроков онлайн больше 1
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать на никнейм любого пользователя в блоке чата
     - Нажать на строку "Direct message"
   expected-result: |
@@ -2681,12 +2694,12 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Количество игроков онлайн больше 1
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io
     - Нажать на никнейм любого пользователя в блоке чата
     - Нажать на строку "Direct message"
     - Заполнить текстовое поле чата. Значение "Привет!"
@@ -2701,6 +2714,7 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Было написано приватное сообщение другому игроку
     Открыт приватный чат с игроком
@@ -2719,6 +2733,7 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2738,6 +2753,7 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2755,6 +2771,7 @@
     Пользователи должны иметь возможность вести переписку в чате после регистраци
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2772,6 +2789,7 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2789,6 +2807,7 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2806,6 +2825,7 @@
     Пользователь должен иметь возможность писать приватные сообщения другому игроку
     Пользователи должны иметь возможность вести переписку в чате после регистраци
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2822,6 +2842,7 @@
   requirement: |
     Сайт должен быть защищен от SQL-инъекций и XSS-атак в полях ввода
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2839,6 +2860,7 @@
   requirement: |
     Сайт должен быть защищен от SQL-инъекций и XSS-атак в полях ввода
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыт приватный чат с игроком
   test-data: |
@@ -2855,11 +2877,11 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
   expected-result: |
     При наведении курсора кнопка выделяется цветом
@@ -2870,11 +2892,11 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Join a battle"
   expected-result: |
     При наведении курсора кнопка выделяется цветом
@@ -2885,11 +2907,11 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
   expected-result: |
     Открывается модальное окно Create a game
@@ -2916,11 +2938,11 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать кнопку "Х" в модальном окне
   expected-result: |
@@ -2932,11 +2954,11 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать в любую область за пределами модального окна
   expected-result: |
@@ -2948,11 +2970,11 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Join a battle"
   expected-result: |
     Открывается модальное окно "Join a battle"
@@ -2975,11 +2997,11 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Join a battle"
     - Нажать кнопку "Х" в модальном окне
   expected-result: |
@@ -2991,11 +3013,11 @@
   requirement: |
     Все интерактивные элементы должны иметь визуальную обратную связь
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Join a battle"
     - Нажать в любую область за пределами модального окна
   expected-result: |
@@ -3007,12 +3029,12 @@
   requirement: |
     Пользователь должен иметь возможность менять сложность игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     При открытии модального окна создания игры, по умолчанию указан уровень игры 1 звезда
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на любое значение уровня кроме 1 звезды
   expected-result: |
@@ -3030,12 +3052,12 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Игра может быть проведена с любым человеком, с ботом или другом
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     При открытии модального окна создания игры, по умолчанию указан тип "With other users"
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на кнопку "With a friend"
   expected-result: |
@@ -3052,6 +3074,7 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Игра может быть проведена с любым человеком, с ботом или другом
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Открыто модальное окно "Create a battle"
   test-data: |
@@ -3072,12 +3095,12 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Игра может быть проведена с любым человеком, с ботом или другом
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     При открытии модального окна создания игры, по умолчанию указан тип "With other users"
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на кнопку "With a friend"
   expected-result: |
@@ -3093,13 +3116,13 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбрать время игры во вемя ее создания
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     При открытии модального окна создания игры, по умолчанию указан тип "8 min"
     Минимальная длительность игры - 3 минуты
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Перетащить ползунок в блоке "Time control" на минимум
   expected-result: |
@@ -3112,13 +3135,13 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбрать время игры во вемя ее создания
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     При открытии модального окна создания игры, по умолчанию указан тип "8 min"
     Максмальная длительность игры - 60 минут
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Перетащить ползунок в блоке "Time control" на максимум
   expected-result: |
@@ -3131,11 +3154,11 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на выпадающий список задач "Choose task by name or tags"
   expected-result: |
@@ -3149,11 +3172,11 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на выпадающий список задач "Choose task by name or tags"
     - Выбрать любое значение
@@ -3169,11 +3192,11 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на любой тег
   expected-result: |
@@ -3187,13 +3210,13 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Ни один тег не выбран
     Максимальное количество задач - 98
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на любой тег
     - Нажать на тот же тег второй раз
@@ -3208,12 +3231,12 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Максимальное количество задач - 98
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Create a battle"
     - Нажать на любой тег
     - Нажать еще раз на любой тег кроме уже выбранного
@@ -3227,12 +3250,12 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Доступна игра для присоединения
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на кнопку "Join a battle"
     - Нажать на кнопку "Fight" в любой игре
   expected-result: |
@@ -3244,6 +3267,7 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь находится в игре
   test-data: |
@@ -3259,6 +3283,7 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру
     Пользователь вышел на главную страницу из игры
@@ -3275,6 +3300,7 @@
   requirement: |
     Другие пользователи могут следить за ходом любой игры онлайн
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     В модальном окне "Join a battle" есть идущая игра
   test-data: |
@@ -3297,11 +3323,11 @@
     Пользователь должен иметь возможность выбрать время игры во вемя ее создания
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку "Create a battle"
     - Нажать кнопку "4 звезды"
     - Сменить положение ползунка времени на минимум (3 min)
@@ -3318,12 +3344,12 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователем была создана игра с типом "With other user"
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку "Continue a battle"
   expected-result: |
     Происходит перенаправление на страницу ожидания второго игрока
@@ -3337,6 +3363,7 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователем была создана игра с типом "With other user"
     Пользователь был перенаправлен на главную страницу после создания игры
@@ -3358,11 +3385,11 @@
     Пользователь должен иметь возможность выбрать время игры во вемя ее создания
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку "Create a battle"
     - Нажать кнопку "2 звезды"
     - Нажать кнопку "With a friend"
@@ -3384,11 +3411,11 @@
     Пользователь должен иметь возможность выбрать время игры во вемя ее создания
     Пользователь должен иметь возможность выбирать задачу при создании игры
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку "Create a battle"
     - Нажать кнопку "With a bot"
     - Сменить положение ползунка времени на середину (30 min)
@@ -3422,12 +3449,12 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь может присоединяться к игре по приглашению
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Получено приглашение присоединиться к игре от другого пользователя
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать на иконку мечей в шапке профиля
   expected-result: |
     Открывается модальное окно с информацией об уведомлении
@@ -3440,12 +3467,12 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь может присоединяться к игре по приглашению
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Получено приглашение присоединиться к игре от другого пользователя
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку перекрещенных мечей в шапке сайта
     - Нажать кнопку "Decline"
   expected-result: |
@@ -3457,12 +3484,12 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь был приглашен к игре другим игроком
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку перекрещенных мечей в шапке сайта
     - Нажать "Accept"
   expected-result: |
@@ -3496,12 +3523,12 @@
   requirement: |
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь был приглашен к игре другим игроком
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку перекрещенных мечей в шапке сайта
     - Нажать "Accept"
     - Нажать кнопку с иконкой троеточия
@@ -3515,12 +3542,12 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь был приглашен к игре другим игроком
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать кнопку перекрещенных мечей в шапке сайта
     - Нажать "Accept"
     - Нажать кнопку с иконкой троеточия
@@ -3538,6 +3565,7 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь только что завершил игру
     Открыто модальное окно с уведомлением об исходе игры
@@ -3559,6 +3587,7 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь только что завершил игру
     Открыто модальное окно с уведомлением об исходе игры
@@ -3580,12 +3609,13 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
     Нет
   steps:
-    - Дождаться окончания таймера
+    - Закончить игру по истечению таймера
   expected-result: |
     Блок таймера закрашивается по мере истечения времени
     Когда остается 20 секунд, блок таймера окрашивается в желтый
@@ -3601,6 +3631,7 @@
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
     Пользователь в игре должен иметь возможность проверять свой код в игре
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
@@ -3622,6 +3653,7 @@
     Пользователь должен иметь возможность видеть результат игры по ее окончанию
     Пользователь в игре должен иметь возможность проверять свой код в игре
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
@@ -3642,6 +3674,7 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователь в игре должен иметь возможность проверять свой код в игре
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
@@ -3660,6 +3693,7 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователи должны иметь возможность вести переписку в чате после регистрации
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
@@ -3677,6 +3711,7 @@
     Пользователь должен иметь возможность решать задачи на скорость против другого игрока
     Пользователи должны иметь возможность вести переписку в чате после регистрации
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
@@ -3696,6 +3731,7 @@
     Пользователи должны иметь возможность вести переписку в чате после регистрации
     Сайт должен быть защищен от SQL-инъекций и XSS-атак в полях ввода
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь начал игру 
   test-data: |
@@ -3712,12 +3748,12 @@
   requirement: |
     Пользователи должны иметь возможность просматривать записи завершенных игр
   prerequisites: |
+    Открыт сайт https://codebattle.hexlet.io/
     Пройдена процедура авторизации
     Пользователь имеет завершенные игры
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My profile"
     - Нажать на вкладку "Complited games"
@@ -3732,11 +3768,10 @@
   requirement: |
     Сайт должен использовать HTTPS на всех страницах
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Нажать иконку аватарки/никнейм в правом верхнем углу
     - Нажать на элемент "My profile"
   expected-result: |
@@ -3748,11 +3783,10 @@
   requirement: |
     Сайт должен корректно отображаться и быть полностью функциональным на экранах с маленькой шириной без появления горизонтальной прокрутки.
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Открыть Devtools
     - Включить режим эмулации устройств Device Toolbar
     - Выбрать в качестве устройста "iPhone 12/13 Pro" (ширина 390px)
@@ -3767,11 +3801,10 @@
   requirement: |
     Сайт должен корректно отображаться и быть полностью функциональным на экранах с маленькой шириной без появления горизонтальной прокрутки
   prerequisites: |
-    Нет
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Открыть Devtools
     - Включить режим эмулации устройств Device Toolbar
     - Выбрать в качестве устройста "Galaxy S20" (ширина 360px)
@@ -3786,11 +3819,11 @@
   requirement: |
     Сайт должен быть совместим с последними версиями браузеров Chrome, Firefox, Safari
   prerequisites: |
-    Открыть браузер firefox
+    Открыт сайт https://codebattle.hexlet.io/
+    Открыт браузер firefox
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Перейти в профиль пользователя
   expected-result: |
     Сайт корректно отображается в выбранном браузере
@@ -3801,11 +3834,11 @@
   requirement: |
     Сайт должен быть совместим с последними версиями браузеров Chrome, Firefox, Safari
   prerequisites: |
-    Открыть браузер safari
+    Открыт браузер safari
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Перейти в профиль пользователя
   expected-result: |
     Сайт корректно отображается в выбранном браузере
@@ -3816,11 +3849,11 @@
   requirement: |
     Сайт должен быть совместим с последними версиями браузеров Chrome, Firefox, Safari
   prerequisites: |
-    Открыть браузер Google Chrome
+    Открыт браузер Google Chrome
+    Открыт сайт https://codebattle.hexlet.io/
   test-data: |
     Нет
   steps:
-    - Открыть сайт https://codebattle.hexlet.io/
     - Перейти в профиль пользователя
   expected-result: |
     Сайт корректно отображается в выбранном браузере
@@ -3831,7 +3864,7 @@
   requirement: |
     Главная страница сайта должна полностью загружаться менее чем за 10 секунды
   prerequisites: |
-    Открыть браузер Google Chrome инкогнито
+    Открыт браузер Google Chrome инкогнито
   test-data: |
     Нет
   steps:
